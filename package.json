@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo/webpack-config": "^0.17.0",
     "axios": "^1.1.2",
     "expo": "~46.0.16",
     "expo-location": "~14.3.0",
