@@ -12,7 +12,7 @@ Making use of [openchargemap.org API] (https://openchargemap.org/site/develop/ap
 
 # Things I did
 
-- Added tests for the components
+- Added tests for the components and hook
 - created `useGeolocation` hook in order to make the code more cleaner
 
 ### Improvements
