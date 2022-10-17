@@ -14,6 +14,7 @@ Making use of [openchargemap.org API] (https://openchargemap.org/site/develop/ap
 
 - Added tests for the components and hook
 - created `useGeolocation` hook in order to make the code more cleaner
+- use conventional commits
 
 ### Improvements
 
@@ -22,3 +23,8 @@ If I had more time on my hands, I would:
 - have loved to write a better test for `useGeoLocation` hook
 - improve the user flow: Clicking on a card will open a modal or navigate use to a Details page which shows the user more information about a POI
 - cleaned up the code more by creating a `useOpenChargeApi` hook which would help in fetching data
+
+### Available Scripts
+
+- `yarn start`- Runs the app in the development mode. Open http://localhost:19006 to view it in the browser.
+- `yarn test`- Launches the test runner in the interactive watch mode
