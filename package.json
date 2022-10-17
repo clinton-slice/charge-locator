@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^1.1.2",
     "expo": "~46.0.16",
     "expo-location": "~14.3.0",
     "expo-status-bar": "~1.4.0",
